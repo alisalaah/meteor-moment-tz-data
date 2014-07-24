@@ -1,0 +1,8 @@
+{
+    "name": "moment+tz+data",
+    "description": "Moment + Timezones + Data 2010-2020",
+    "homepage": "https://github.com/alisalaah/meteor-moment-tz-data",
+    "author": "Ali Camarata  (http://alicamarata.com)",
+    "version": "1.0.0",
+    "git": "https://github.com/alisalaah/meteor-moment-tz-data.git"
+}
